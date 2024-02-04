@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css'
 import CheckOut from './Components/CheckOut'
 import Home from './Components/Home'
